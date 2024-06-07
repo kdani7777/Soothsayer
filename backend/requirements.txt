@@ -1,0 +1,16 @@
+flask
+requests
+tqdm
+bs4
+boto3
+langchain
+langchain-community
+langchainhub
+langchain-openai
+langchain-chroma
+langchain-pinecone
+langchain-groq
+pinecone-client
+flask-cors
+python-dotenv
+sseclient-py

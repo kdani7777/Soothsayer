@@ -1,0 +1,988 @@
+[
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "Beer City Half Sacramento",
+        "Distances Available": "13.1M, 10K, 5K, 1M run",
+        "Location": "West Sacramento, CA",
+        "Race Info": "https://runningintheusa.com/details/156038",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/291364"
+    },
+    {
+        "Race Date": "Sunday - May 5, 2024",
+        "Race Name": "Cal Tri Ventura",
+        "Distances Available": "olympic, sprint triathlon | olympic, sprint triathlon relay | olympic, sprint duathlon | 10K, 5K run | youth triathlon",
+        "Location": "Ventura, CA",
+        "Race Info": "https://runningintheusa.com/details/105470",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/198501"
+    },
+    {
+        "Race Date": "Saturday - Jun 1, 2024",
+        "Race Name": "Beer City Half San Jose",
+        "Distances Available": "13.1M, 10K, 5K run | kids run",
+        "Location": "San Jose, CA",
+        "Race Info": "https://runningintheusa.com/details/139425",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/265898"
+    },
+    {
+        "Race Date": "Sunday - Jun 2, 2024",
+        "Race Name": "Griffith Park Trail Marathon Relay & 8K",
+        "Distances Available": "8K trail run | 26.2M relay",
+        "Location": "Los Angeles, CA",
+        "Race Info": "https://runningintheusa.com/details/42338",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/150144"
+    },
+    {
+        "Race Date": "Saturday - Jun 15, 2024",
+        "Race Name": "Cal Tri Castaic Lake",
+        "Distances Available": "olympic, sprint triathlon | olympic, sprint triathlon relay | olympic, sprint duathlon | olympic, sprint aquathon | 10K, 5K run | youth triathlon | youth duathlon | youth aquathon",
+        "Location": "Castaic, CA",
+        "Race Info": "https://runningintheusa.com/details/164525",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/304130"
+    },
+    {
+        "Race Date": "Sunday - Jun 23, 2024",
+        "Race Name": "Cal Tri Sonoma",
+        "Distances Available": "olympic, sprint triathlon | olympic, sprint triathlon relay | youth triathlon",
+        "Location": "Guerneville, CA",
+        "Race Info": "https://runningintheusa.com/details/130212",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/248253"
+    },
+    {
+        "Race Date": "Wednesday - May 1, 2024",
+        "Race Name": "Fog City Run",
+        "Distances Available": "5K run",
+        "Location": "San Francisco, CA",
+        "Race Info": "https://runningintheusa.com/details/26811"
+    },
+    {
+        "Race Date": "Wednesday - May 1, 2024",
+        "Race Name": "Into the Wild Saddleback Wilderness 5K",
+        "Distances Available": "5K trail run",
+        "Location": "Orange, CA",
+        "Race Info": "https://runningintheusa.com/details/166333"
+    },
+    {
+        "Race Date": "Thursday - May 2, 2024",
+        "Race Name": "Cinco de Mile Ole 5 Que",
+        "Distances Available": "5K run | kids run",
+        "Location": "Bakersfield, CA",
+        "Race Info": "https://runningintheusa.com/details/43295",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/49722"
+    },
+    {
+        "Race Date": "Thursday - May 2, 2024",
+        "Race Name": "La Jolla Coastal 5K Running Tour",
+        "Distances Available": "5K running tour",
+        "Location": "San Diego, CA",
+        "Race Info": "https://runningintheusa.com/details/73868"
+    },
+    {
+        "Race Date": "Friday - May 3, 2024",
+        "Race Name": "Balboa Park 5k Running Tour",
+        "Distances Available": "5K running tour",
+        "Location": "San Diego, CA",
+        "Race Info": "https://runningintheusa.com/details/73869"
+    },
+    {
+        "Race Date": "Friday - May 3, 2024",
+        "Race Name": "NMCSD Cinco De Mayo 5K",
+        "Distances Available": "5K run",
+        "Location": "San Diego, CA",
+        "Race Info": "https://runningintheusa.com/details/171539",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/315784"
+    },
+    {
+        "Race Date": "Friday - May 3, 2024",
+        "Race Name": "Taco Two-Miler",
+        "Distances Available": "2M run",
+        "Location": "Lemoore, CA",
+        "Race Info": "https://runningintheusa.com/details/168666"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "AAUW Madtown 5K",
+        "Distances Available": "5K run",
+        "Location": "Madera, CA",
+        "Race Info": "https://runningintheusa.com/details/137510"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "American Association of University Women Madtown 5K",
+        "Distances Available": "5K run",
+        "Location": "Madera, CA",
+        "Race Info": "https://runningintheusa.com/details/36472",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/308411"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "Beer City Half Sacramento",
+        "Distances Available": "13.1M, 10K, 5K, 1M run",
+        "Location": "West Sacramento, CA",
+        "Race Info": "https://runningintheusa.com/details/156038",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/291364"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "Byxbee parkrun",
+        "Distances Available": "5K run",
+        "Location": "Palo Alto, CA",
+        "Race Info": "https://runningintheusa.com/details/86502"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "California Brewery Running Series",
+        "Distances Available": "5K run",
+        "Location": "Moorpark, CA",
+        "Race Info": "https://runningintheusa.com/details/146044"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "Cinco de Mayo Half Marathon",
+        "Distances Available": "13.1M, 15K, 10K, 5K run",
+        "Location": "Long Beach, CA",
+        "Race Info": "https://runningintheusa.com/details/167754",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/309750"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "Cinco Mayo 5K",
+        "Distances Available": "5K run",
+        "Location": "Stockton, CA",
+        "Race Info": "https://runningintheusa.com/details/169471"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "Folsom Lake Trail Run",
+        "Distances Available": "50K, 30K, 13.1M, 10K trail run",
+        "Location": "Folsom, CA",
+        "Race Info": "https://runningintheusa.com/details/23197"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "Giddy Up 5K",
+        "Distances Available": "5K run",
+        "Location": "Temecula, CA",
+        "Race Info": "https://runningintheusa.com/details/164551",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/304224"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "Gone Too Soon 5K",
+        "Distances Available": "5K run",
+        "Location": "Los Angeles, CA",
+        "Race Info": "https://runningintheusa.com/details/78417",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/116717"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "Grit OCR: East Walker Ranch",
+        "Distances Available": "8M, 5M obstacle run",
+        "Location": "Santa Clarita, CA",
+        "Race Info": "https://runningintheusa.com/details/53367",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/214852"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "Hacienda Hills Run",
+        "Distances Available": "50K, 26.2M, 13.1M, 9M, 10K, 5K trail run",
+        "Location": "San Jose, CA",
+        "Race Info": "https://runningintheusa.com/details/108695"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "Healing Hearts Walk/Run/MOVE! for Suicide Prevention",
+        "Distances Available": "1M run | kids run",
+        "Location": "Oakland, CA",
+        "Race Info": "https://runningintheusa.com/details/23516",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/21024"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "Beer City Half Sacramento",
+        "Distances Available": "13.1M, 10K, 5K, 1M run",
+        "Location": "West Sacramento, CA",
+        "Race Info": "https://runningintheusa.com/details/156038",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/291364"
+    },
+    {
+        "Race Date": "Sunday - May 5, 2024",
+        "Race Name": "Cal Tri Ventura",
+        "Distances Available": "olympic, sprint triathlon | olympic, sprint triathlon relay | olympic, sprint duathlon | 10K, 5K run | youth triathlon",
+        "Location": "Ventura, CA",
+        "Race Info": "https://runningintheusa.com/details/105470",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/198501"
+    },
+    {
+        "Race Date": "Saturday - Jun 1, 2024",
+        "Race Name": "Beer City Half San Jose",
+        "Distances Available": "13.1M, 10K, 5K run | kids run",
+        "Location": "San Jose, CA",
+        "Race Info": "https://runningintheusa.com/details/139425",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/265898"
+    },
+    {
+        "Race Date": "Sunday - Jun 2, 2024",
+        "Race Name": "Griffith Park Trail Marathon Relay & 8K",
+        "Distances Available": "8K trail run | 26.2M relay",
+        "Location": "Los Angeles, CA",
+        "Race Info": "https://runningintheusa.com/details/42338",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/150144"
+    },
+    {
+        "Race Date": "Saturday - Jun 15, 2024",
+        "Race Name": "Cal Tri Castaic Lake",
+        "Distances Available": "olympic, sprint triathlon | olympic, sprint triathlon relay | olympic, sprint duathlon | olympic, sprint aquathon | 10K, 5K run | youth triathlon | youth duathlon | youth aquathon",
+        "Location": "Castaic, CA",
+        "Race Info": "https://runningintheusa.com/details/164525",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/304130"
+    },
+    {
+        "Race Date": "Sunday - Jun 23, 2024",
+        "Race Name": "Cal Tri Sonoma",
+        "Distances Available": "olympic, sprint triathlon | olympic, sprint triathlon relay | youth triathlon",
+        "Location": "Guerneville, CA",
+        "Race Info": "https://runningintheusa.com/details/130212",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/248253"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "Hollywood to the Sea Road & Trail Relay",
+        "Distances Available": "75M trail run | 75M relay",
+        "Location": "Los Angeles, CA",
+        "Race Info": "https://runningintheusa.com/details/162778",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/301101"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "Kerman Almond Festival Scholarship Fun Run",
+        "Distances Available": "5K run",
+        "Location": "Kerman, CA",
+        "Race Info": "https://runningintheusa.com/details/45530"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "Kids Run the OC Final Mile",
+        "Distances Available": "kids run",
+        "Location": "Costa Mesa, CA",
+        "Race Info": "https://runningintheusa.com/details/130481"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "La Jolla Coastal 5K Running Tour",
+        "Distances Available": "5K running tour",
+        "Location": "San Diego, CA",
+        "Race Info": "https://runningintheusa.com/details/73868"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "Little Loco Relay",
+        "Distances Available": "65M relay",
+        "Location": "Forest Ranch, CA",
+        "Race Info": "https://runningintheusa.com/details/30566"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "May the Fourth Be with You Half Marathon",
+        "Distances Available": "13.1M, 10K, 5K run",
+        "Location": "Santa Monica, CA",
+        "Race Info": "https://runningintheusa.com/details/137257",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/261965"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "Miwok 100K",
+        "Distances Available": "100K trail run",
+        "Location": "Stinson Beach, CA",
+        "Race Info": "https://runningintheusa.com/details/10695"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "NURSES ROCK Run",
+        "Distances Available": "10K, 5K run",
+        "Location": "San Dimas, CA",
+        "Race Info": "https://runningintheusa.com/details/111586",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/212848"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "Ray Gil / Alan Hunt Mission Memorial Run",
+        "Distances Available": "10K, 5K run",
+        "Location": "Lompoc, CA",
+        "Race Info": "https://runningintheusa.com/details/144778"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "Red Hills Ramble",
+        "Distances Available": "30K, 15K, 10K trail run",
+        "Location": "Tuolumne, CA",
+        "Race Info": "https://runningintheusa.com/details/31573",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/33082"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "Saratoga Rotary 5K for A Cause",
+        "Distances Available": "5K run",
+        "Location": "Saratoga, CA",
+        "Race Info": "https://runningintheusa.com/details/169258"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "Silva Strong Superhero 5K",
+        "Distances Available": "5K run",
+        "Location": "Mendota, CA",
+        "Race Info": "https://runningintheusa.com/details/168825",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/312335"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "Tacos N' Beer 5K",
+        "Distances Available": "5K run",
+        "Location": "Los Angeles, CA",
+        "Race Info": "https://runningintheusa.com/details/111094",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/303970"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "The Ruck Challenge",
+        "Distances Available": "10K, 5K run",
+        "Location": "Riverside, CA",
+        "Race Info": "https://runningintheusa.com/details/139870"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "Viking Run",
+        "Distances Available": "5K, 2K run | kids run",
+        "Location": "San Francisco, CA",
+        "Race Info": "https://runningintheusa.com/details/108954",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/206744"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "WineRun Sacramento",
+        "Distances Available": "5K, 1K run",
+        "Location": "Clarksburg, CA",
+        "Race Info": "https://runningintheusa.com/details/166423"
+    },
+    {
+        "Race Date": "Sunday - May 5, 2024",
+        "Race Name": "Avenue of the Giants Marathon",
+        "Distances Available": "26.2M, 13.1M, 10K run",
+        "Location": "Arcata, CA",
+        "Race Info": "https://runningintheusa.com/details/10026"
+    },
+    {
+        "Race Date": "Sunday - May 5, 2024",
+        "Race Name": "Aztec Run for Education",
+        "Distances Available": "5K run",
+        "Location": "Oakland, CA",
+        "Race Info": "https://runningintheusa.com/details/164498"
+    },
+    {
+        "Race Date": "Sunday - May 5, 2024",
+        "Race Name": "Balboa Park 5k Running Tour",
+        "Distances Available": "5K running tour",
+        "Location": "San Diego, CA",
+        "Race Info": "https://runningintheusa.com/details/73869"
+    },
+    {
+        "Race Date": "Sunday - May 5, 2024",
+        "Race Name": "Bay Bridge Half Marathon",
+        "Distances Available": "13.1M run",
+        "Location": "Oakland, CA",
+        "Race Info": "https://runningintheusa.com/details/73951",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/111379"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "Beer City Half Sacramento",
+        "Distances Available": "13.1M, 10K, 5K, 1M run",
+        "Location": "West Sacramento, CA",
+        "Race Info": "https://runningintheusa.com/details/156038",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/291364"
+    },
+    {
+        "Race Date": "Sunday - May 5, 2024",
+        "Race Name": "Cal Tri Ventura",
+        "Distances Available": "olympic, sprint triathlon | olympic, sprint triathlon relay | olympic, sprint duathlon | 10K, 5K run | youth triathlon",
+        "Location": "Ventura, CA",
+        "Race Info": "https://runningintheusa.com/details/105470",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/198501"
+    },
+    {
+        "Race Date": "Saturday - Jun 1, 2024",
+        "Race Name": "Beer City Half San Jose",
+        "Distances Available": "13.1M, 10K, 5K run | kids run",
+        "Location": "San Jose, CA",
+        "Race Info": "https://runningintheusa.com/details/139425",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/265898"
+    },
+    {
+        "Race Date": "Sunday - Jun 2, 2024",
+        "Race Name": "Griffith Park Trail Marathon Relay & 8K",
+        "Distances Available": "8K trail run | 26.2M relay",
+        "Location": "Los Angeles, CA",
+        "Race Info": "https://runningintheusa.com/details/42338",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/150144"
+    },
+    {
+        "Race Date": "Saturday - Jun 15, 2024",
+        "Race Name": "Cal Tri Castaic Lake",
+        "Distances Available": "olympic, sprint triathlon | olympic, sprint triathlon relay | olympic, sprint duathlon | olympic, sprint aquathon | 10K, 5K run | youth triathlon | youth duathlon | youth aquathon",
+        "Location": "Castaic, CA",
+        "Race Info": "https://runningintheusa.com/details/164525",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/304130"
+    },
+    {
+        "Race Date": "Sunday - Jun 23, 2024",
+        "Race Name": "Cal Tri Sonoma",
+        "Distances Available": "olympic, sprint triathlon | olympic, sprint triathlon relay | youth triathlon",
+        "Location": "Guerneville, CA",
+        "Race Info": "https://runningintheusa.com/details/130212",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/248253"
+    },
+    {
+        "Race Date": "Sunday - May 5, 2024",
+        "Race Name": "Boontling Classic",
+        "Distances Available": "5K run",
+        "Location": "Boonville, CA",
+        "Race Info": "https://runningintheusa.com/details/141187",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/269807"
+    },
+    {
+        "Race Date": "Sunday - May 5, 2024",
+        "Race Name": "Cal Tri Ventura",
+        "Distances Available": "olympic, sprint triathlon | olympic, sprint triathlon relay | olympic, sprint duathlon | 10K, 5K run | youth triathlon",
+        "Location": "Ventura, CA",
+        "Race Info": "https://runningintheusa.com/details/105470",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/198501"
+    },
+    {
+        "Race Date": "Sunday - May 5, 2024",
+        "Race Name": "Cinco De Mayo Fiesta Run",
+        "Distances Available": "13.1M, 10K, 5K run",
+        "Location": "Tracy, CA",
+        "Race Info": "https://runningintheusa.com/details/173238",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/318374"
+    },
+    {
+        "Race Date": "Sunday - May 5, 2024",
+        "Race Name": "Cinco de Mile & Ole 5 Que",
+        "Distances Available": "5K run | kids run",
+        "Location": "Fresno, CA",
+        "Race Info": "https://runningintheusa.com/details/41533",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/47273"
+    },
+    {
+        "Race Date": "Sunday - May 5, 2024",
+        "Race Name": "Cinco De Miles 5K/5M",
+        "Distances Available": "5M, 5K, 1M run",
+        "Location": "Huntington Beach, CA",
+        "Race Info": "https://runningintheusa.com/details/47658",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/55797"
+    },
+    {
+        "Race Date": "Sunday - May 5, 2024",
+        "Race Name": "Farmer Bob's 5K Poker Run/Walk",
+        "Distances Available": "5K run",
+        "Location": "Ivanhoe, CA",
+        "Race Info": "https://runningintheusa.com/details/135966",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/260067"
+    },
+    {
+        "Race Date": "Sunday - May 5, 2024",
+        "Race Name": "Girls on the Run 5K - San Diego",
+        "Distances Available": "5K run",
+        "Location": "San Diego, CA",
+        "Race Info": "https://runningintheusa.com/details/18737"
+    },
+    {
+        "Race Date": "Sunday - May 5, 2024",
+        "Race Name": "Healthy Kids Running Series - South Orange County",
+        "Distances Available": "kids run",
+        "Location": "Laguna Niguel, CA",
+        "Race Info": "https://runningintheusa.com/details/67775"
+    },
+    {
+        "Race Date": "Sunday - May 5, 2024",
+        "Race Name": "Love My Mom 5K",
+        "Distances Available": "5K run | kids run",
+        "Location": "Folsom, CA",
+        "Race Info": "https://runningintheusa.com/details/43009"
+    },
+    {
+        "Race Date": "Sunday - May 5, 2024",
+        "Race Name": "OC Marathon Running Festival",
+        "Distances Available": "26.2M, 13.1M, 5K run",
+        "Location": "Costa Mesa, CA",
+        "Race Info": "https://runningintheusa.com/details/10508",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/278307"
+    },
+    {
+        "Race Date": "Sunday - May 5, 2024",
+        "Race Name": "Patagonia 5K",
+        "Distances Available": "5K, 1M run",
+        "Location": "San Francisco, CA",
+        "Race Info": "https://runningintheusa.com/details/167692",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/309558"
+    },
+    {
+        "Race Date": "Sunday - May 5, 2024",
+        "Race Name": "Race With A View",
+        "Distances Available": "5K run",
+        "Location": "Long Beach, CA",
+        "Race Info": "https://runningintheusa.com/details/19752"
+    },
+    {
+        "Race Date": "Sunday - May 5, 2024",
+        "Race Name": "Spreckles Lake 5K",
+        "Distances Available": "5K, 1M run",
+        "Location": "San Francisco, CA",
+        "Race Info": "https://runningintheusa.com/details/26415",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/303369"
+    },
+    {
+        "Race Date": "Sunday - May 5, 2024",
+        "Race Name": "Spring Sprint Triathlon Festival",
+        "Distances Available": "olympic, sprint triathlon | sprint duathlon | sprint aquathon",
+        "Location": "San Diego, CA",
+        "Race Info": "https://runningintheusa.com/details/12296",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/286734"
+    },
+    {
+        "Race Date": "Sunday - May 5, 2024",
+        "Race Name": "SRLA Spring into Summer 5K",
+        "Distances Available": "5K run",
+        "Location": "Los Angeles, CA",
+        "Race Info": "https://runningintheusa.com/details/62243",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/88464"
+    },
+    {
+        "Race Date": "Sunday - May 5, 2024",
+        "Race Name": "Verdugo Mountains 10K Trail Run",
+        "Distances Available": "10K trail run",
+        "Location": "Glendale, CA",
+        "Race Info": "https://runningintheusa.com/details/20067"
+    },
+    {
+        "Race Date": "Sunday - May 5, 2024",
+        "Race Name": "Windsor Run & Wine",
+        "Distances Available": "13.1M, 10K, 5K run",
+        "Location": "Windsor, CA",
+        "Race Info": "https://runningintheusa.com/details/20401"
+    },
+    {
+        "Race Date": "Sunday - May 5, 2024",
+        "Race Name": "You Are Enough 5K Run/walk",
+        "Distances Available": "5K run",
+        "Location": "Hermosa Beach, CA",
+        "Race Info": "https://runningintheusa.com/details/139026"
+    },
+    {
+        "Race Date": "Tuesday - May 7, 2024",
+        "Race Name": "Spencer and Sedgwick 5K",
+        "Distances Available": "5K run",
+        "Location": "San Diego, CA",
+        "Race Info": "https://runningintheusa.com/details/113282",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/218821"
+    },
+    {
+        "Race Date": "Wednesday - May 8, 2024",
+        "Race Name": "Fog City Run",
+        "Distances Available": "5K run",
+        "Location": "San Francisco, CA",
+        "Race Info": "https://runningintheusa.com/details/26811"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "Beer City Half Sacramento",
+        "Distances Available": "13.1M, 10K, 5K, 1M run",
+        "Location": "West Sacramento, CA",
+        "Race Info": "https://runningintheusa.com/details/156038",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/291364"
+    },
+    {
+        "Race Date": "Sunday - May 5, 2024",
+        "Race Name": "Cal Tri Ventura",
+        "Distances Available": "olympic, sprint triathlon | olympic, sprint triathlon relay | olympic, sprint duathlon | 10K, 5K run | youth triathlon",
+        "Location": "Ventura, CA",
+        "Race Info": "https://runningintheusa.com/details/105470",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/198501"
+    },
+    {
+        "Race Date": "Saturday - Jun 1, 2024",
+        "Race Name": "Beer City Half San Jose",
+        "Distances Available": "13.1M, 10K, 5K run | kids run",
+        "Location": "San Jose, CA",
+        "Race Info": "https://runningintheusa.com/details/139425",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/265898"
+    },
+    {
+        "Race Date": "Sunday - Jun 2, 2024",
+        "Race Name": "Griffith Park Trail Marathon Relay & 8K",
+        "Distances Available": "8K trail run | 26.2M relay",
+        "Location": "Los Angeles, CA",
+        "Race Info": "https://runningintheusa.com/details/42338",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/150144"
+    },
+    {
+        "Race Date": "Saturday - Jun 15, 2024",
+        "Race Name": "Cal Tri Castaic Lake",
+        "Distances Available": "olympic, sprint triathlon | olympic, sprint triathlon relay | olympic, sprint duathlon | olympic, sprint aquathon | 10K, 5K run | youth triathlon | youth duathlon | youth aquathon",
+        "Location": "Castaic, CA",
+        "Race Info": "https://runningintheusa.com/details/164525",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/304130"
+    },
+    {
+        "Race Date": "Sunday - Jun 23, 2024",
+        "Race Name": "Cal Tri Sonoma",
+        "Distances Available": "olympic, sprint triathlon | olympic, sprint triathlon relay | youth triathlon",
+        "Location": "Guerneville, CA",
+        "Race Info": "https://runningintheusa.com/details/130212",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/248253"
+    },
+    {
+        "Race Date": "Thursday - May 9, 2024",
+        "Race Name": "La Jolla Coastal 5K Running Tour",
+        "Distances Available": "5K running tour",
+        "Location": "San Diego, CA",
+        "Race Info": "https://runningintheusa.com/details/73868"
+    },
+    {
+        "Race Date": "Friday - May 10, 2024",
+        "Race Name": "Balboa Park 5k Running Tour",
+        "Distances Available": "5K running tour",
+        "Location": "San Diego, CA",
+        "Race Info": "https://runningintheusa.com/details/73869"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Autism Shero Run 5K/10K",
+        "Distances Available": "10K, 5K run",
+        "Location": "Van Nuys, CA",
+        "Race Info": "https://runningintheusa.com/details/132291",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/252151"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Byxbee parkrun",
+        "Distances Available": "5K run",
+        "Location": "Palo Alto, CA",
+        "Race Info": "https://runningintheusa.com/details/86502"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Canyon City Classic",
+        "Distances Available": "10K, 5K, 1K run",
+        "Location": "Azusa, CA",
+        "Race Info": "https://runningintheusa.com/details/173019",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/317989"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Chocolate Chase",
+        "Distances Available": "10K, 5K run",
+        "Location": "Paradise, CA",
+        "Race Info": "https://runningintheusa.com/details/20273"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Dirty Secret Trail Run",
+        "Distances Available": "10.3M, 5.8M trail run",
+        "Location": "Cool, CA",
+        "Race Info": "https://runningintheusa.com/details/27702"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Folsom Lake Triathlon",
+        "Distances Available": "olympic triathlon",
+        "Location": "Granite Bay, CA",
+        "Race Info": "https://runningintheusa.com/details/23447",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/279598"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Girls on the Run 5K",
+        "Distances Available": "5K run",
+        "Location": "San Leandro, CA",
+        "Race Info": "https://runningintheusa.com/details/26038"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Grizzly Peak Trail Run",
+        "Distances Available": "50K, 26.2M, 30K, 13.1M, 10K trail run | kids run",
+        "Location": "Berkeley, CA",
+        "Race Info": "https://runningintheusa.com/details/16407",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/211963"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "High Five For Teachers 5K",
+        "Distances Available": "10K, 5K run",
+        "Location": "Stockton, CA",
+        "Race Info": "https://runningintheusa.com/details/138947"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "John Wayne Grit Series - Newport Coast",
+        "Distances Available": "25K, 5K trail run",
+        "Location": "Laguna Beach, CA",
+        "Race Info": "https://runningintheusa.com/details/93824"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "La Jolla Coastal 5K Running Tour",
+        "Distances Available": "5K running tour",
+        "Location": "San Diego, CA",
+        "Race Info": "https://runningintheusa.com/details/73868"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Little Heroes Fun Run of Santa Rosa",
+        "Distances Available": "5K run",
+        "Location": "Santa Rosa, CA",
+        "Race Info": "https://runningintheusa.com/details/115707",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/223778"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Lynwood 5K/10K",
+        "Distances Available": "10K, 5K run",
+        "Location": "Lynwood, CA",
+        "Race Info": "https://runningintheusa.com/details/135314",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/257572"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Mermaid Run Mare Island",
+        "Distances Available": "13.1M, 10K, 5K run",
+        "Location": "Vallejo, CA",
+        "Race Info": "https://runningintheusa.com/details/16397"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Mira Monte High School Lion Legacy Run",
+        "Distances Available": "10K, 5K run",
+        "Location": "Bakersfield, CA",
+        "Race Info": "https://runningintheusa.com/details/166606",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/308291"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Mothers Day Half Marathon",
+        "Distances Available": "13.1M, 15K, 10K, 5K run",
+        "Location": "Long Beach, CA",
+        "Race Info": "https://runningintheusa.com/details/145954",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/279681"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Muir Woods Marathon",
+        "Distances Available": "26.2M, 13.1M, 7M trail run",
+        "Location": "Stinson Beach, CA",
+        "Race Info": "https://runningintheusa.com/details/10885"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "MVRRC Mothers Day Run",
+        "Distances Available": "10K, 5K run | kids run",
+        "Location": "Perris, CA",
+        "Race Info": "https://runningintheusa.com/details/101869",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/304573"
+    },
+    {
+        "Race Date": "Saturday - May 4, 2024",
+        "Race Name": "Beer City Half Sacramento",
+        "Distances Available": "13.1M, 10K, 5K, 1M run",
+        "Location": "West Sacramento, CA",
+        "Race Info": "https://runningintheusa.com/details/156038",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/291364"
+    },
+    {
+        "Race Date": "Sunday - May 5, 2024",
+        "Race Name": "Cal Tri Ventura",
+        "Distances Available": "olympic, sprint triathlon | olympic, sprint triathlon relay | olympic, sprint duathlon | 10K, 5K run | youth triathlon",
+        "Location": "Ventura, CA",
+        "Race Info": "https://runningintheusa.com/details/105470",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/198501"
+    },
+    {
+        "Race Date": "Saturday - Jun 1, 2024",
+        "Race Name": "Beer City Half San Jose",
+        "Distances Available": "13.1M, 10K, 5K run | kids run",
+        "Location": "San Jose, CA",
+        "Race Info": "https://runningintheusa.com/details/139425",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/265898"
+    },
+    {
+        "Race Date": "Sunday - Jun 2, 2024",
+        "Race Name": "Griffith Park Trail Marathon Relay & 8K",
+        "Distances Available": "8K trail run | 26.2M relay",
+        "Location": "Los Angeles, CA",
+        "Race Info": "https://runningintheusa.com/details/42338",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/150144"
+    },
+    {
+        "Race Date": "Saturday - Jun 15, 2024",
+        "Race Name": "Cal Tri Castaic Lake",
+        "Distances Available": "olympic, sprint triathlon | olympic, sprint triathlon relay | olympic, sprint duathlon | olympic, sprint aquathon | 10K, 5K run | youth triathlon | youth duathlon | youth aquathon",
+        "Location": "Castaic, CA",
+        "Race Info": "https://runningintheusa.com/details/164525",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/304130"
+    },
+    {
+        "Race Date": "Sunday - Jun 23, 2024",
+        "Race Name": "Cal Tri Sonoma",
+        "Distances Available": "olympic, sprint triathlon | olympic, sprint triathlon relay | youth triathlon",
+        "Location": "Guerneville, CA",
+        "Race Info": "https://runningintheusa.com/details/130212",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/248253"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Nitro Trail Half Marathon",
+        "Distances Available": "13.1M, 10K, 5K trail run",
+        "Location": "San Pablo, CA",
+        "Race Info": "https://runningintheusa.com/details/15168"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Pacific Crest Trail 50 (PCT 50)",
+        "Distances Available": "50M trail run",
+        "Location": "San Diego, CA",
+        "Race Info": "https://runningintheusa.com/details/47478"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Paiute Meadows Trail Run",
+        "Distances Available": "50K, 13.6M, 4.5M trail run | 50K relay",
+        "Location": "Susanville, CA",
+        "Race Info": "https://runningintheusa.com/details/40262"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Pathways Run",
+        "Distances Available": "1M run | 10K, 5K trail run",
+        "Location": "Los Altos Hills, CA",
+        "Race Info": "https://runningintheusa.com/details/19223"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Quicksilver Endurance Runs",
+        "Distances Available": "100K, 50K trail run",
+        "Location": "San Jose, CA",
+        "Race Info": "https://runningintheusa.com/details/10748"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Race For Open Space",
+        "Distances Available": "35K, 25K, 12K, 1M trail run",
+        "Location": "Carmel-By-The-Sea, CA",
+        "Race Info": "https://runningintheusa.com/details/61949",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/181400"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Race to Cure Sarcoma",
+        "Distances Available": "5K run",
+        "Location": "San Francisco, CA",
+        "Race Info": "https://runningintheusa.com/details/137737"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Rose 5K",
+        "Distances Available": "5K run",
+        "Location": "Byron, CA",
+        "Race Info": "https://runningintheusa.com/details/102292",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/189576"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Santa Barbara Wine Country Half Marathon",
+        "Distances Available": "13.1M run | 13.1M relay",
+        "Location": "Santa Ynez, CA",
+        "Race Info": "https://runningintheusa.com/details/13831",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/306775"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Sasquatch Trail Run",
+        "Distances Available": "5K trail run | kids run",
+        "Location": "Woodlake, CA",
+        "Race Info": "https://runningintheusa.com/details/51796",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/61379"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "She.is.beautiful 5K and 10K",
+        "Distances Available": "10K, 5K run",
+        "Location": "Santa Cruz, CA",
+        "Race Info": "https://runningintheusa.com/details/26129"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Spring Fit 5K",
+        "Distances Available": "5K run",
+        "Location": "South Gate, CA",
+        "Race Info": "https://runningintheusa.com/details/42465"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Stinson Beach Half Marathon",
+        "Distances Available": "13.1M, 7M run",
+        "Location": "Stinson Beach, CA",
+        "Race Info": "https://runningintheusa.com/details/10474"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Sunshine Sprint",
+        "Distances Available": "13.1M, 10K, 5K run",
+        "Location": "Santa Monica, CA",
+        "Race Info": "https://runningintheusa.com/details/141193",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/269815"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Trail Run at Sly Park",
+        "Distances Available": "50K, 26.2M, 18M, 13.1M, 8.5M, 10K, 5K trail run",
+        "Location": "Pollock Pines, CA",
+        "Race Info": "https://runningintheusa.com/details/49681"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "TVNO - Tamil Vetri Nadai Odu - SFBATM Racing",
+        "Distances Available": "13.1M, 15K, 10K, 5K run",
+        "Location": "Sunnyvale, CA",
+        "Race Info": "https://runningintheusa.com/details/169376",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/313463"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Waves & Whales 5K Trail Run",
+        "Distances Available": "5K trail run",
+        "Location": "Point Arena, CA",
+        "Race Info": "https://runningintheusa.com/details/49549"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Wildcat Prowl",
+        "Distances Available": "5K run",
+        "Location": "Woodside, CA",
+        "Race Info": "https://runningintheusa.com/details/164650",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/304493"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Willow Glen 5K",
+        "Distances Available": "5K run",
+        "Location": "San Jose, CA",
+        "Race Info": "https://runningintheusa.com/details/20158"
+    },
+    {
+        "Race Date": "Saturday - May 11, 2024",
+        "Race Name": "Yosemite Half Marathon",
+        "Distances Available": "13.1M run",
+        "Location": "Bass Lake, CA",
+        "Race Info": "https://runningintheusa.com/details/39853",
+        "Race Signup": "https://runningintheusa.com/redirector/listing/200342"
+    }
+]
