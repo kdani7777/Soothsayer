@@ -1,17 +1,18 @@
 'use client'
 import React, { useState, useEffect, useRef } from 'react';
 import Sidebar from './ui/sidebar';
+import Message from './ui/message';
 import Head from 'next/head';
 import { GoSidebarCollapse, GoSidebarExpand } from 'react-icons/go';
 
-type Message = {
+type MessageType = {
   id: number,
   text: string,
   sender: 'user' | 'bot'
 };
 
 const Chat: React.FC = () => {
-  const [messages, setMessages] = useState<Message[]>([]);
+  const [messages, setMessages] = useState<MessageType[]>([]);
   const [input, setInput] = useState('');
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
 
@@ -19,7 +20,7 @@ const Chat: React.FC = () => {
 
   const handleSend = async () => {
     if (input.trim() !== '') {
-      const userMessage: Message = {
+      const userMessage: MessageType = {
         id: messages.length + 1,
         text: input,
         sender: 'user'
@@ -40,7 +41,7 @@ const Chat: React.FC = () => {
 
         if (response.ok) {
           const data = await response.json();
-          const botMessage: Message = {
+          const botMessage: MessageType = {
             id: messages.length + 2,
             text: data.answer,
             sender: 'bot'
@@ -52,16 +53,6 @@ const Chat: React.FC = () => {
       } catch (error) {
         console.error('Error:', error);
       }
-
-      // Simulating bot response
-      // setTimeout(() => {
-      //   const botMessage: Message = {
-      //     id: messages.length + 2,
-      //     text: 'This is a bot response',
-      //     sender: 'bot'
-      //   };
-      //   setMessages((prevMessages) => [...prevMessages, botMessage]);
-      // }, 1000);
     }
   };
 
@@ -102,14 +93,7 @@ const Chat: React.FC = () => {
           </button>
           <div className="flex-1 p-4 overflow-y-auto bg-gray-100">
             {messages.map((message) => (
-              <div
-                key={message.id}
-                className={`p-3 my-2 rounded-lg ${
-                  message.sender === 'user' ? 'bg-green-200 self-end' : 'bg-white self-start'
-                }`}
-              >
-                {message.text}
-              </div>
+              <Message key={message.id} text={message.text} sender={message.sender} />
             ))}
             <div ref={messageContainerRef} />
           </div>
