@@ -97,16 +97,16 @@ const Sidebar: React.FC<SidebarProps> = ({ isOpen, toggleSidebar }) => {
         {isOpen ? 'Close' : 'Open'}
       </button>
       {!isAuthenticated ? (
-        <div className='flex-grow'>
+        <div className='flex-grow flex flex-col items-center'>
           <p>Please log in to Strava to see your recommendations.</p>
-          <button onClick={handleLogin} className="hover:bg-green-700 rounded">
+          <button onClick={handleLogin} className="hover:bg-gray-200 rounded mt-2">
             <Image src="/strava/connect-with-strava.svg" alt="Connect with Strava" width={193} height={48} />
           </button>
         </div>
       ) : (
         <div className="flex-grow mt-4 overflow-y-auto">          
           {isLoading ? ( // Render loading message while recommendations are being fetched
-            <p>Loading...</p>
+            <p className='text-center'>Loading...</p>
           ) : (
             recommendationData && recommendationData.length > 0 ? (
               recommendationData.map((reco, index) => (
@@ -120,12 +120,12 @@ const Sidebar: React.FC<SidebarProps> = ({ isOpen, toggleSidebar }) => {
                 />
               ))
             ) : (
-              <p>No recommendations available.</p>
+              <p className='text-center'>No recommendations available.</p>
             )
           )}
         </div>
       )}
-      <div className='mt-auto'>
+      <div className='mt-auto flex justify-center'>
         <Image src="/strava/powered-by-strava.svg" alt="Powered by Strava" width={193} height={48} />
       </div>
     </div>

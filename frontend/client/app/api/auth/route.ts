@@ -5,7 +5,6 @@ export const dynamic = 'force-dynamic';
 
 export async function GET(request: NextRequest) {
   try {
-    console.log("I AM HERE");
     const { searchParams } = new URL(request.url);
     const code = searchParams.get('code');
 
@@ -19,8 +18,6 @@ export async function GET(request: NextRequest) {
       code: code,
       grant_type: 'authorization_code',
     });
-
-    // console.log("response data: " + JSON.stringify(response.data));
 
     const { access_token } = response.data;
     return NextResponse.json({ access_token });
