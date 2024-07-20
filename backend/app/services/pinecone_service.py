@@ -107,12 +107,24 @@ def _extract_metadata(chunk: Document) -> Dict[str, Any]:
     metadata_dict['year'] = "Cancelled"
     return metadata_dict
   day_of_week, rest = race_date.split(' - ')
+  # Check for "tentative" race date
+  print(rest)
+  #TODO: handle "Unknown Year" adequately
+  if "Tentative" in rest or "TBD" in rest or "Unknown Year" in rest or "Past Date" in rest:
+    metadata_dict['month'] = "Tentative"
+    metadata_dict['year'] = "Tentative"
+    return metadata_dict
   month_and_day, year = rest.split(', ')
   month, day = month_and_day.split(' ')
 
   # process location
   race_location = json_content['Location']
-  city, state = race_location.split(', ')
+  try:
+    city, state = race_location.split(', ')
+  except Exception as e:
+    #TODO: fix scraping script to handle races such as Badwater Ultramarathon that has different start and finish
+    city = "check"
+    state = "details"
 
   # process available distances
   race_distances = json_content['Distances Available']

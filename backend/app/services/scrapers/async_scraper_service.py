@@ -286,7 +286,7 @@ async def main():
   """
   The main coroutine.
   """
-  states_list = list(SMALLER_MAP.keys())
+  states_list = list(STATES_MAP.keys())
   BATCH_SIZE = 3
 
   # split the states_list into batches
@@ -304,7 +304,7 @@ async def main():
         # text_data = '\n'.join([f"Race {i + 1}:\n{race}\n" for i, race in enumerate(races)])
         # text_data = '\n'.join([f"{race}\n" for i, race in enumerate(races)])
         text_data = '\n\n'.join(races_json)
-        file_name = f'../../data/race_data_latest/{SMALLER_MAP[state]}_race_information.txt'
+        file_name = f'../../../data/race_data_latest/{STATES_MAP[state]}_race_information.txt'
 
         # Write information to file
         with open(file_name, 'w') as file:
