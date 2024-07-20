@@ -180,7 +180,6 @@ async def fetch_all_races(session, base_url, num_pages, state_name):
   Returns:
   - list: A list containing dictionaries of race information.
   """
-  # all_races = []
   all_races_set = set()
   total_races = 0
   start_time = time.time()
@@ -197,8 +196,6 @@ async def fetch_all_races(session, base_url, num_pages, state_name):
         race_info_tuple = tuple(race_info.items())
         if race_info_tuple not in all_races_set:
           all_races_set.add(race_info_tuple)
-
-      # all_races.extend(race_info_list)
       
       pbar.update(1)
 
@@ -301,8 +298,6 @@ async def main():
       results = await asyncio.gather(*tasks)
       for state, races in zip(batch, results):
         races_json = [json.dumps(race) for race in races]
-        # text_data = '\n'.join([f"Race {i + 1}:\n{race}\n" for i, race in enumerate(races)])
-        # text_data = '\n'.join([f"{race}\n" for i, race in enumerate(races)])
         text_data = '\n\n'.join(races_json)
         file_name = f'../../../data/race_data_latest/{STATES_MAP[state]}_race_information.txt'
 
